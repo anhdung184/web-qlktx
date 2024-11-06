@@ -1,0 +1,48 @@
+.content__bando-mg{
+    padding-top: 18px;
+    padding-left: 26px;
+     margin: -38px -30px 0px;
+     height: 100px;
+     display: block;
+     background-color: #fff;
+    align-items: center;
+     flex-direction: row;
+     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%), 0 3px 1px -2px rgb(0 0 0 / 20%);
+}
+.content__bando-mg h1{
+    font-weight: 300;
+    font-size: 1.9rem;
+    margin-bottom: 2px;
+}
+.content__duoi-link{
+        font-size: 1.3rem;
+    }
+.content__duoi-h5{
+    margin-left: 20px;
+    font-size: 1.2rem;
+    padding: 12px 0;
+    color: #696767;
+    }
+    .content__duoi-inputthem{
+        padding-top: 0px;
+        display: flex;
+    }
+    .content__duoi-l-2{
+        width: 50%;
+        padding: 0 20px;
+    }
+    .content__duoi-mg1{
+        margin-right: 40px;
+    }
+    .content__duoi-mg2{
+        margin-left: 40px;
+    }
+    .content__duoi-them {
+         border: 2px solid #cfd4da; 
+        outline-color: #5cb1e3;
+        height: 40px;  
+    }
+    .content__duoi{
+        min-height:100vh ;
+    }
+    
